@@ -1,1 +1,1 @@
-﻿
+﻿function func () {model.	test = new DataClass("	Collection");};
