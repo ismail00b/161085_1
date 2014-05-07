@@ -1,1 +1,1 @@
-﻿testFolder4;
+﻿testFolder4;function func () {	};
